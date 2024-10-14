@@ -1,0 +1,17 @@
+asgiref
+Django
+djangorestframework
+sqlparse
+tzdata
+django
+charset-normalizer
+django-cors-headers
+django-email
+django-environ
+django-filter
+djangorestframework
+psycopg2-binary
+requests
+whitenoise
+cloudinary
+django-cloudinary-storage
