@@ -30,7 +30,9 @@ SECRET_KEY = 'django-insecure-#nx$+v^74ywz))md8p3@2z^e^5-fzb^3xvfao(qn+5-ncojomx
 DEBUG = True
 
 # ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['https://social-onrender-backend-2.onrender.com', 'https://frontofsocial.vercel.app', 'localhost', '127.0.0.1']
+# ALLOWED_HOSTS = ['https://social-onrender-backend-2.onrender.com', 'https://frontofsocial.vercel.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['social-onrender-backend-2.onrender.com', 'frontofsocial.vercel.app', 'localhost', '127.0.0.1']
+
 CSRF_TRUSTED_ORIGINS = ['https://social-onrender-backend-2.onrender.com', 'https://frontofsocial.vercel.app']
 
 # Application definition
